@@ -1,5 +1,7 @@
 Eureka Server for service discovery, ready to run on local
 
+download the ZIP file <demo-cloud-eurka> and import as maven project on your IDE
+
 1- build the project using 
   mvn clean package
 2- run the app 
